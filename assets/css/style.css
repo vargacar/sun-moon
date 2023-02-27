@@ -15,16 +15,16 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* header font size*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-
+/* header color*/
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* nav style*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -32,25 +32,25 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/* nav ul style*/
 .header nav ul {
     list-style-type: none;
 }
-
+/* nav list style*/
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* nav reference color*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* content paragraph font size*/
 p {
     font-size: 16px;
 }
-
+/* class article style*/
 .hero {
     height: 800px;
     width: 100%;
@@ -59,23 +59,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* margin*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* margin*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* content style*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* benefits style*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,26 +86,26 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* consolidation margin and color*/
 .benefit-lead, .benefit-brand, .benefit-cost  {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-
+/* consolidation font size h3*/
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3  {
     margin-bottom: 10px;
     text-align: center;
 }
 
-
+/* consolidation image style*/
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-
+/* consolidation search style*/
 .search-engine-optimization, .online-reputation-management, .social-media-marketing{
     margin-bottom: 20px;
     padding: 50px;
@@ -115,24 +115,24 @@ p {
     color: #ffffff;
 }
 
-
+/* search image size*/
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img  {
     max-height: 200px;
 }
-
+/* consolidation font size h2 */
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2  {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-
+/* footer style*/
 .footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* footer font size*/
 .footer h2 {
     font-size: 20px;
 }
