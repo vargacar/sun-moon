@@ -12,19 +12,14 @@ https://github.com/vargacar/sun-moon
 ##Usage
 This assignment can be use with HTML and CSS to show the correct functionality of the code, with its proper names, also the consolidation in CSS for h2, h3, img lines in order to make it shorter, clearer  and better to read.
 
-Contributing
-Fork it!
-Create your feature branch: git checkout -b my-new-feature
-Commit your changes: git commit -am 'Add some feature'
-Push to the branch: git push origin my-new-feature
-Submit a pull request :D
-History
-TODO: Write history
+the started code was clone and modifies without affectin the original information and design. several commits were made, one with the information updated, the second one with the HTML notes and the other one with CSS notes, the last commit is for the README file. git push to sun-moon.
 
 Credits
-TODO: Write credits
+
+Xandromus
 
 License
-TODO: Write license
+
+Xandromus
 
 
